@@ -1,4 +1,4 @@
-Progetto creato per il corso di "APPLICAZIONI PER DISPOSITIVI MOBILI" a.a. 2021/2022 (UNIVAQ, Università degli Studi Dell'Aquila). 
+Progetto creato per il corso di "LABORATORIO DI PROGRAMMAZIONE MOBILE" a.a. 2021/2022 (UNIVAQ, Università degli Studi Dell'Aquila). 
 
 Il suo scopo è mostrare i capoluoghi delle regioni italiane sia listate che sulla mappa e fornirne alcune informazioni, permettendo anche zoom in e zoom out. 
 
