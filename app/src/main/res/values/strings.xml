@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ItalianCities</string>
+    <string name="list" translatable="false">List</string>
+    <string name="maps" translatable="false">Maps</string>
+    <string name="code" translatable="false">Code</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="nome">Nome</string>
+    <string name="cap">Cap</string>
+    <string name="prefisso">Prefisso</string>
+    <string name="provincia">Provincia</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+</resources>

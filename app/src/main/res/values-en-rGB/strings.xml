@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ItalianCities</string>
+    <string name="nome">Name</string>
+    <string name="cap">Postal code</string>
+    <string name="prefisso">Prefix</string>
+    <string name="provincia">Province</string>
+</resources>
